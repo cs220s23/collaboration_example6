@@ -4,5 +4,5 @@
 This repo is used to teach collaboration in a git repo.
 
 ## Names
-* Nathan
-* JP
+* Nathan - bonvalletn@moravian.edu
+* JP - appelj@moravian.edu
